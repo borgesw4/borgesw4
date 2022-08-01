@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![snake animation](https://github.com/borgesw4/borgesw4/blob/ab15ce10781c1958d4680b89a1b5e4ea600dcbec/.github/workflows/snake.yml)
 <!--
 **borgesw4/borgesw4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
