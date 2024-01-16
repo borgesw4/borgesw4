@@ -12,7 +12,3 @@
 ![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
 
 🔗 Clique no botão ao lado para visualizar o meu perfil completo <a href="https://www.linkedin.com/in/wellington-borges-49aa89104/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
-
-<img src="https://github.com/borgesw4/borgesw4/blob/main/snake.svg" alt="Snake animation" />
-
-###
